@@ -1,0 +1,11 @@
+{
+  "name": "calc-le-retour",
+  "version": "1.0.0",
+  "description": "A totally not useless package that aims to help upcoming developpers to perform maths in their projects!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Htbk",
+  "license": "ISC"
+}
