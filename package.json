@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Arthur Htbk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArthurHtbk/calc-le-retour"
+  },
   "license": "ISC"
 }
